@@ -15,8 +15,8 @@ To run this project, you need to have Python 3.11 or above installed. You can cr
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Seao7/TechJapan---DeepCraft.git
+   cd time-series-prediction
    ```
 
 2. **Create a virtual environment (optional but recommended):**
